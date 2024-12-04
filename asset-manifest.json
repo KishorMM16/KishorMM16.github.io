@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/kishormm16.github.io/kishormm16.github.io/static/css/main.18e9b35d.css",
-    "main.js": "/kishormm16.github.io/kishormm16.github.io/static/js/main.2c771215.js",
-    "static/js/415.4d6acbeb.chunk.js": "/kishormm16.github.io/kishormm16.github.io/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/kishormm16.github.io/kishormm16.github.io/static/js/787.1ed0c42c.chunk.js",
-    "static/media/SuryAI.png": "/kishormm16.github.io/kishormm16.github.io/static/media/SuryAI.1edba70b3666c96e4d32.png",
-    "static/media/Car_Rentals.png": "/kishormm16.github.io/kishormm16.github.io/static/media/Car_Rentals.6efc1d8f4bdad41a9da4.png",
-    "static/media/kishor_cv.pdf": "/kishormm16.github.io/kishormm16.github.io/static/media/kishor_cv.405f30b49b8c23b3abce.pdf",
-    "static/media/Social_media.png": "/kishormm16.github.io/kishormm16.github.io/static/media/Social_media.e8a27f065f2cd477f6ef.png",
-    "static/media/codeEditor.png": "/kishormm16.github.io/kishormm16.github.io/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/home-main.svg": "/kishormm16.github.io/kishormm16.github.io/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/kishormm16.github.io/kishormm16.github.io/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/logo.png": "/kishormm16.github.io/kishormm16.github.io/static/media/logo.771a7ca970c3c98c697f.png",
-    "static/media/home-bg.jpg": "/kishormm16.github.io/kishormm16.github.io/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/Market_analysis.png": "/kishormm16.github.io/kishormm16.github.io/static/media/Market_analysis.c9e0c246ad6e4304f1ab.png",
-    "static/media/avatar.svg": "/kishormm16.github.io/kishormm16.github.io/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
-    "index.html": "/kishormm16.github.io/kishormm16.github.io/index.html",
-    "static/media/pre.svg": "/kishormm16.github.io/kishormm16.github.io/static/media/pre.d4812f51c8c80976eaab.svg",
-    "main.18e9b35d.css.map": "/kishormm16.github.io/kishormm16.github.io/static/css/main.18e9b35d.css.map",
-    "main.2c771215.js.map": "/kishormm16.github.io/kishormm16.github.io/static/js/main.2c771215.js.map",
-    "415.4d6acbeb.chunk.js.map": "/kishormm16.github.io/kishormm16.github.io/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/kishormm16.github.io/kishormm16.github.io/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/static/css/main.394fe901.css",
+    "main.js": "/static/js/main.65481c19.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/SuryAI.png": "/static/media/SuryAI.1edba70b3666c96e4d32.png",
+    "static/media/Car_Rentals.png": "/static/media/Car_Rentals.6efc1d8f4bdad41a9da4.png",
+    "static/media/kishor_cv.pdf": "/static/media/kishor_cv.405f30b49b8c23b3abce.pdf",
+    "static/media/Social_media.png": "/static/media/Social_media.e8a27f065f2cd477f6ef.png",
+    "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/logo.png": "/static/media/logo.771a7ca970c3c98c697f.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/Market_analysis.png": "/static/media/Market_analysis.c9e0c246ad6e4304f1ab.png",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.394fe901.css.map": "/static/css/main.394fe901.css.map",
+    "main.65481c19.js.map": "/static/js/main.65481c19.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.18e9b35d.css",
-    "static/js/main.2c771215.js"
+    "static/css/main.394fe901.css",
+    "static/js/main.65481c19.js"
   ]
 }
